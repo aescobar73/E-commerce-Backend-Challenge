@@ -7,7 +7,7 @@
 
 </div>
 
-[Github URL](https://github.com/aescobar73/Employee-Tracker)
+[Github URL](https://github.com/aescobar73/E-commerce-Backend-Challenge)
 
 <br>
 
@@ -49,7 +49,7 @@
 
 ## Description
 
-        
+        Our challenge this week is to build the back end for a e-commerce site. We will be using express.js and a sequalize. The following images show a snippet of the routes running successfully via a different post. The attached Demo Video from above, shows all the routes functioning properly.
         
 
 <br>
@@ -57,42 +57,52 @@
 
 ## Contributions
 
-
-
-<br>
-
-<br>
-
-## Initial Command Line
-
-<br>
-
-![Landing Page](./assets/command%20line.jpg)
+        None
 
 <br>
 
 <br>
 
-## Employees Listed
+## Category get all
 
 <br>
 
-![Save Button](./assets/employees.jpg)
-
-<br>
-
-<br>
-
-## Roles Table
-
-![Note Added and Seen](./assets/roles.jpg)
+![Category](./assets/category-getall.jpg)
 
 <br>
 
 <br>
 
-## Departments Table
+## Category Update
 
 <br>
 
-![Note Seen](./assets/departments.jpg)
+![Category](./assets/category-update.jpg)
+
+<br>
+
+<br>
+
+## Product By ID
+
+![Product](./assets/product-byid.jpg)
+
+<br>
+
+<br>
+
+## Tag Create
+
+<br>
+
+![Tag](./assets/tag-create.jpg)
+
+<br>
+
+<br>
+
+## Tag Delete 
+
+<br>
+
+![Tag](./assets/tag-delete.jpg)
